@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 </a>
 
 <a href="mailto:aloniregev@gmail.com">
-  <img align="left" alt="Regev Aloni Linkdin" width="50px" src="./Images/email.png" />
+  <img align="left" alt="Regev Aloni Linkdin" width="45px" src="./Images/email.png" />
 </a>
