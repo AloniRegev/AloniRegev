@@ -1,4 +1,4 @@
-### Hi there, I'm Regev 👋
+## Hi there, I'm Regev 👋
 
 <!--
 **AloniRegev/AloniRegev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### Contact me in:
+### Contact me in:
 
 <a href="mailto:aloniregev@gmail.com">
   <img align="left" alt="Regev Aloni Linkdin" width="50px" src="./Images/mail.png" />
