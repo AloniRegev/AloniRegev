@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://www.linkedin.com/in/aloniregev">
-  <img align="left" alt="Regev Aloni Linkdin" width="50px" src="./Images/linkedin.png" />
+  <img align="left" alt="Regev Aloni Linkdin" width="50px" src="./Images/linkedin1.png" />
 </a>
 
 
