@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 #### Contact me in:
 
 <a href="mailto:aloniregev@gmail.com">
-  <img align="left" alt="Regev Aloni Linkdin" width="50px" src="./Images/email1.png" />
+  <img align="left" alt="Regev Aloni Linkdin" width="50px" src="./Images/mail.png" />
 </a>
 
 <a href="https://www.linkedin.com/in/aloniregev">
-  <img align="left" alt="Regev Aloni Linkdin" width="50px" src="./Images/linkedin1.png" />
+  <img align="left" alt="Regev Aloni Linkdin" width="50px" src="./Images/linkedin.png" />
 </a>
 
 
