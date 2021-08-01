@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://www.linkedin.com/in/aloniregev">
-  <img align="left" alt="Regev Aloni Linkdin" width="25px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
+  <img align="left" alt="Regev Aloni Linkdin" width="25px" src="./linkedin.png" />
 </a>
