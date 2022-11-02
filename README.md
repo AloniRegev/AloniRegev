@@ -1,6 +1,6 @@
 ## Hi there, I'm Regev 👋
 
-About to obtain a B.Sc. degree in Computer science from The University of Haifa, former student at the Open University of Israel. 
+A curious and creative, Computer Science graduate from The University of Haifa, former student at the Open University of Israel. 
 
 <!--
 **AloniRegev/AloniRegev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
