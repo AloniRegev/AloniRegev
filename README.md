@@ -17,13 +17,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Contact me in:
+<a href="https://1drv.ms/b/s!Ain61060d6tPxyQ8VW-EQaSz0K0x?e=0G4rtq">
+  <img align="left" alt="Regev Aloni - CV" width="50px" src="./Images/cv.png" />
+</a>
 
 <a href="mailto:aloniregev@gmail.com">
-  <img align="left" alt="Regev Aloni Linkdin" width="50px" src="./Images/mail.png" />
+  <img align="left" alt="Regev Aloni - Mail" width="50px" src="./Images/mail.png" />
 </a>
 
 <a href="https://www.linkedin.com/in/aloniregev">
-  <img align="left" alt="Regev Aloni Linkdin" width="50px" src="./Images/linkedin.png" />
+  <img align="left" alt="Regev Aloni- Linkdin" width="50px" src="./Images/linkedin.png" />
 </a>
 
 
