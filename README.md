@@ -16,9 +16,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Contact me in:
+### Find me in:
 <a href="https://1drv.ms/b/s!Ain61060d6tPxyQ8VW-EQaSz0K0x?e=0G4rtq">
   <img align="left" alt="Regev Aloni - CV" width="50px" src="./Images/cv.png" />
+</a>
+
+<a href="https://aloniregev.github.io">
+  <img align="left" alt="Regev Aloni - Website" width="50px" src="./Images/web.png" />
 </a>
 
 <a href="mailto:aloniregev@gmail.com">
